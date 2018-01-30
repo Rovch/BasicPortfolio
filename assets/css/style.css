@@ -1,0 +1,184 @@
+/*   In this section will be all my styling reffering to the actaul "HomeWork assignment */
+
+.inline  {
+  color: #777777;
+  display: inline;
+  float: right;
+  padding: 8px;
+  font-size: 15px;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  margin-top: 30px;
+}
+
+#inlineLeft {
+  color: #ecebeb;
+  font-size: 40px;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  height: 100%;
+  background-color: #4aaaa5;
+  float: left;
+  display: inline;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 25px;
+  margin-left: 12%;
+}
+
+#realUl {
+  height: 90px;
+  border-bottom: 2px solid #cccccc;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+#headerLi {
+  margin-right: 8%;
+}
+
+#box1 {
+  background-image: url("./cssImages/cork-wallet.png");
+}
+
+#avi {
+  width:300px;
+  height: 200px;
+}
+
+#aviP {
+  font-size: 22px;
+}
+
+#about {
+  background-color: #ffffff;
+  margin-top: 2%;
+  margin-left: 5%;
+  border: 2px solid #cccccc;
+  width: 60%;
+}
+
+#realFooter {
+  text-align: center;
+  background-color: #666666;
+  margin-top: 18%;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+
+} 
+
+#box1 {
+  overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background-color: #222733;
+}
+
+#nav {  
+  position: fixed;
+  width: 20%;
+  height: 100%;
+  background-color: #292E3D;
+}
+
+#nav ul li {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #D6E5CE;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20%;
+  width: 60%;
+}
+
+#menu {
+  margin-top: 25%;
+}
+
+#pic {
+  background-color: #222733;
+  border: 3px solid #D6E5CE;
+  border-radius: 50%;
+  margin-top: 25%;
+  margin-left: 30%;
+  width: 40%;
+  height: 40%; 
+}
+
+.line {
+  border-bottom: 1px solid #D6E5CE;
+  border-width: 
+}
+
+#names {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 10%;
+  margin-left: 5%;
+  color: #D6E5CE;
+}
+
+#knickName {
+  padding-top: 4%;
+  font-family: cursive;
+  font-size: 30px;
+}
+
+#sentence {
+  padding-top: 5%;
+  text-align: left;
+}
+
+.boxes {
+  font-size: 30px;
+  color: orange;
+  border: 1px solid limegreen;
+  height: 100%;
+}
+
+#sections {
+  /* border: 5px solid orange; */
+  margin-left: 20%;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
